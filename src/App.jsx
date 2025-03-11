@@ -12,5 +12,4 @@ function App() {
   );
 }
 
-export default App; 
-// gtd d
+export default App;
